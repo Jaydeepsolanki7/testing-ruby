@@ -8,4 +8,5 @@ end
 
 p = Person.new
 
-p.person_info(p.name = 'Jay', p.age = 23, p.gender ="Male")
+p.person_info(p.name = 'Jay', p.age = 23, p.gender = 'Male')
+puts p.name

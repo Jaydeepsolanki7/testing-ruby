@@ -1,1 +1,1 @@
-There are just a coding practice for some examples in ruby
+There is just a coding practice for some examples in ruby
